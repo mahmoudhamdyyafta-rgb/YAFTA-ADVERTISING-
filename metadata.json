@@ -1,0 +1,8 @@
+{
+  "name": "Yafta For Advertising",
+  "description": "Premium Signage \u0026 Advertising Agency ERP with integrated real-time Design Studio and Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Star elements to represent creativity & signage lighting -->
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M54,20 l2,5 l5,2 l-5,2 l-2,5 l-2,-5 l-5,-2 l5,-2 z" />
+    <path
+        android:fillColor="#FF007F"
+        android:pathData="M25,45 l1.5,3.5 l3.5,1.5 l-3.5,1.5 l-1.5,3.5 l-1.5,-3.5 l-3.5,-1.5 l3.5,-1.5 z" />
+    <!-- Stylized Y / Signboard base -->
+    <path
+        android:fillColor="#00A3FF"
+        android:pathData="M34,34 L48,54 L48,80 L60,80 L60,54 L74,34 L62,34 L54,48 L46,34 Z" />
+</vector>
